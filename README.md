@@ -1,6 +1,10 @@
 # til
-Today I Learnt
+Today I Learned
 
 ---
+### Git
+* [Pulling Code from a Remote Repository](git/pulling-code-from-remote-repository.md)
+* [Caching your Git Credentials](git/caching-git-credentials.md)
+
 ### Unix
-* [Setting Permissions to a File or Directory](https://github.com/jsiny/til/blob/master/Unix/setting-permissions-to-file-or-directory.md)
+* [Setting Permissions to a File or Directory](unix/setting-permissions-to-file-or-directory.md)
