@@ -1,4 +1,4 @@
-# Accessing a multidimensional array
+# Accessing an Element in a Multidimensional Array
 
 ## Accessing an element in a one-dimensional array
 
