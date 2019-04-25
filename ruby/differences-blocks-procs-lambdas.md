@@ -26,7 +26,7 @@ congratulations("Hélène") { |name| puts "Wow that's incredible, #{name}!" }
 
 A proc is an object from the Proc class. 
 
-It is defined using `Proc.new` or `proc + <block>`.
+It is defined using `Proc.new`.
 
 Some interesting features for procs:
 
