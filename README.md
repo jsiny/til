@@ -9,6 +9,7 @@ Today I Learned
 ### Ruby
 * [Accessing an Element in a Multidimensional Array](ruby/accessing-multidimensional-array.md)
 * [Blocks, Procs, Lambdas: Many Similarities, Some Differences](ruby/differences-blocks-procs-lambdas.md)
+* [Variables initialized inside a Method are Unavailable everywhere else](ruby/variables-initialized-inside-method-unavailable-elsewhere.md)
 
 ### Unix
 * [Setting Permissions to a File or Directory](unix/setting-permissions-to-file-or-directory.md)
