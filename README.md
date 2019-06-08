@@ -11,6 +11,7 @@ Today I Learned
 * [Blocks, Procs, Lambdas: Many Similarities, Some Differences](ruby/differences-blocks-procs-lambdas.md)
 * [Destructive Methods & Bang `!` Suffix](ruby/destructive-methods-and-bang.md)
 * [Mutating and Non-Mutating Methods](ruby/mutating-and-non-mutating-methods.md)
+* [Parallel Assignment](ruby/parallel-assignment.md)
 * [Variables initialized inside a Method are Unavailable everywhere else](ruby/variables-initialized-inside-method-unavailable-elsewhere.md)
 * [What are `break` and `while`'s Return Values?](ruby/break-and-while-return-values.md)
 * [Which Scope for Local Variables with Methods or Blocks?](ruby/local-variable-scope-methods-blocks.md)
