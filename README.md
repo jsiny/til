@@ -11,9 +11,11 @@ Today I Learned
 * [Setting Up a Contact Form on Jekyll](jekyll/contact-form-jekyll.md)
 
 ### Ruby
+* [`&` (ampersand) in closures](ruby/ampersand-ruby-closures.md)
 * [Accessing an Element in a Multidimensional Array](ruby/accessing-multidimensional-array.md)
 * [Blocks, Procs, Lambdas: Many Similarities, Some Differences](ruby/differences-blocks-procs-lambdas.md)
 * [Destructive Methods & Bang `!` Suffix](ruby/destructive-methods-and-bang.md)
+* [Making Sense of Equality in Ruby](ruby/ruby-equality.md)
 * [Mutating and Non-Mutating Methods](ruby/mutating-and-non-mutating-methods.md)
 * [Parallel Assignment](ruby/parallel-assignment.md)
 * [Variables initialized inside a Method are Unavailable everywhere else](ruby/variables-initialized-inside-method-unavailable-elsewhere.md)
