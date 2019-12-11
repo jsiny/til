@@ -22,5 +22,8 @@ Today I Learned
 * [What are `break` and `while`'s Return Values?](ruby/break-and-while-return-values.md)
 * [Which Scope for Local Variables with Methods or Blocks?](ruby/local-variable-scope-methods-blocks.md)
 
+### Ruby / Sinatra
+* [Reloading Modified Files in a Sinatra application](ruby/sinatra/reloading-modified-files.md)
+
 ### Unix
 * [Setting Permissions to a File or Directory](unix/setting-permissions-to-file-or-directory.md)
