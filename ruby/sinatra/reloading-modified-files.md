@@ -22,7 +22,7 @@ require 'sinatra/reloader' if development?
 require_relative 'other_important_file'
 
 configure do
-  also_reload 'other_important_file.rb'
+  also_reload 'other_important_file.rb' if development?
 end
 ```
 
@@ -32,6 +32,16 @@ extension (whereas the `require_relative` does not).
 The `also_reload` statement doesn't have to be included in a `configure` block
 if you're dealing with a Classic Application (and not a Modular Application),
 but I think it looks cleaner this way.
+
+To avoid repeating the `if development?` conditional, you can also group
+these statements into their own `configure` block:
+
+```ruby
+configure(:development) do
+  require 'sinatra/reloader'
+  also_reload 'other_important_file.rb'
+end
+```
 
 Now, any time you change something from `my_sinatra_app.rb` or
 `other_important_file.rb`, the changes will directly appear on your localhost!
